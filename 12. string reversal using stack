@@ -35,6 +35,6 @@ def reverse(string):
 
 	return string
 
-string = "M O N I E S H"
+string = "H A R S H A "
 string = reverse(string)
 print("Reversed string is " + string)
